@@ -2,8 +2,8 @@ fx_version 'cerulean'
 game 'gta5'
 
 name 'blazee-notify'
-author 'blazee-notify contributors'
-description 'Standalone NUI notifications for FiveM'
+author 'Blazeeot'
+description 'Standalone notification system for FiveM'
 version '1.0.0'
 
 lua54 'yes'
