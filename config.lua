@@ -1,7 +1,7 @@
 Config = {}
 
 Config.DefaultDuration = 5500
-Config.DefaultPosition = 'top-right'
+Config.DefaultPosition = 'top-center'
 Config.DefaultType = 'info'
 Config.MaxVisible = 5
 Config.Volume = 0.5
