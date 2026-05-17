@@ -14,7 +14,7 @@ Config.ClearCommand = 'notifyclear'
 -- If another framework notification UI is also active and you see duplicates,
 -- set the matching compatibility toggle to false.
 Config.Compatibility = {
-    genericEvents = true,
+    genericEvents = false,
     qbcoreEvent = false,
     esxEvent = false
 }
