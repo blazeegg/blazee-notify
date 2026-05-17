@@ -2,7 +2,7 @@
 
 A standalone FiveM notification system with a sleek ui design, notification sounds, queue handling, exports, events, and framework compatibility/bridge.
 
-<img width="1280" height="900" alt="image" src="https://github.com/user-attachments/assets/7e8ecb5e-5787-4599-a7bf-74ee179b0ca0" />
+<img width="1280" height="900" alt="notification-types" src="https://github.com/user-attachments/assets/db447bee-7aa3-4817-a3d4-9fac7d576d13" />
 
 ## Install
 
@@ -68,7 +68,7 @@ add_ace group.admin blazee.notify.admin allow
 
 ## ShowCase Video
 
-https://github.com/user-attachments/assets/9fdc9a9f-4026-46af-b0d0-1394b3c3723c
+https://github.com/user-attachments/assets/deb11cee-710b-45f4-903b-0e59ff4117e0
 
 ## License
 
